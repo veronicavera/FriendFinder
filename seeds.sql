@@ -1,0 +1,5 @@
+INSERT INTO profiles (name, photo, scores) VALUES ('Hanna Willis', 'https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260', '2,1,5,3,1,5,4,4,3,1');
+INSERT INTO profiles (name, photo, scores) VALUES ('Dean Deolitsis', 'https://vignette.wikia.nocookie.net/firefly/images/1/10/Zoe.jpg/revision/latest?cb=20080301064448', '1,1,3,4,2,5,1,1,2,1');
+INSERT INTO prpfiles (name, photo, scores) VALUES ('Patrick Holmes', 'https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260', '3,4,1,2,3,3,5,1,2,4');
+INSERT INTO profiles (name, photo, scores) VALUES ('Dylan White', 'https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260', '1,2,5,2,1,4,1,3,1,2');
+INSERT INTO profiles (name, photo, scores) VALUES ('Veronica Vrea', 'https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260', '1,2,5,2,1,4,1,3,1,2');
